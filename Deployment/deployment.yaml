@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: web-container
-        image: prabhakar1978/harbor:v1
+        image:  prabhakar1978/harbor_cicd_v2
         ports:
         - containerPort: 80
